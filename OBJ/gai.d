@@ -1,0 +1,17 @@
+..\obj\gai.o: ..\HARDWARE\GAI\GAI.c
+..\obj\gai.o: ..\HARDWARE\GAI\GAI.h
+..\obj\gai.o: ..\SYSTEM\sys\sys.h
+..\obj\gai.o: ..\USER\stm32f10x.h
+..\obj\gai.o: ..\CORE\core_cm3.h
+..\obj\gai.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\gai.o: ..\USER\system_stm32f10x.h
+..\obj\gai.o: ..\USER\stm32f10x_conf.h
+..\obj\gai.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\gai.o: ..\USER\stm32f10x.h
+..\obj\gai.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\gai.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\gai.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\gai.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\gai.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\gai.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\gai.o: ..\HARDWARE\GLOBAL\global.h

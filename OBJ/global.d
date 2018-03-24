@@ -1,0 +1,15 @@
+..\obj\global.o: ..\HARDWARE\GLOBAL\global.c
+..\obj\global.o: ..\HARDWARE\GLOBAL\global.h
+..\obj\global.o: ..\USER\stm32f10x.h
+..\obj\global.o: ..\CORE\core_cm3.h
+..\obj\global.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\global.o: ..\USER\system_stm32f10x.h
+..\obj\global.o: ..\USER\stm32f10x_conf.h
+..\obj\global.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\global.o: ..\USER\stm32f10x.h
+..\obj\global.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\global.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\global.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\global.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\global.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\global.o: ..\STM32F10x_FWLib\inc\misc.h
